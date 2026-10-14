@@ -34,7 +34,7 @@ margin: 0 auto;
     font-family: sans-serif;
     font-size: medium;
 }
-@media screen and  (max-width:390px){
+@media screen and  (max-width:790px){
     .container{
         /* <background-color: blueviolet; */
         width: 100%;
